@@ -1,0 +1,9 @@
+partner:
+  searchName: Search name max length not larger than 100 characters
+  searchParent: Search parent not found
+  searchDelegate: Search delegate max length not larger than 100 characters
+  searchNote : Search note max length not larger than 500 characters
+  searchStatus: Search status invalid format
+  onActive: Partner on activing
+  partnerExist: Partner not exist
+  onParent: Partner is parent

@@ -1,0 +1,6 @@
+information-group:
+  searchCode: Search code max length not larger than 16 characters
+  searchDesciption : Search desciption not found
+  searchStatus : Search status invalid format
+  onActive : Infomation group on activing
+  infomationExist : Infomation group not exist
